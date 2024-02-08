@@ -1,9 +1,11 @@
 void start()
 {
 Debug.Log("Ali");
+Debug.log("Miguel");
 }
 
 void update()
 {
 Debug.Log("Mejia");
+Debug.Log("Panuco");
 }

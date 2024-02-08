@@ -1,10 +1,10 @@
 void start()
 {
 Debug.Log("Ali");
-Debug.Log("Ali Mejia Cortes");
 }
 
 void update()
 {
 Debug.Log("Mejia");
+Debug.Log("Ernesto");
 }

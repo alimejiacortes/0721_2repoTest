@@ -1,6 +1,7 @@
 void start()
 {
 Debug.Log("Ali");
+Debug.Log("Daniel Lopez Celedon");
 }
 
 void update()
